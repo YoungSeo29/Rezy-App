@@ -1,0 +1,22 @@
+// 디자인(rezy.pdf)에서 추출한 색상
+export const colors = {
+  mint: '#C9EFDF',
+  cream: '#F7F7EC',
+  ivory: '#FFFEF2',
+  white: '#FFFFFF',
+  green: '#56AF8A',
+  greenDisabled: '#94D6BB',
+  brown: '#8B745E',
+  brownDisabled: '#C0B4A8',
+  tabActive: '#A37448',
+  tabInactive: '#45454F',
+  text: '#000000',
+  textSub: '#4A4A4A',
+  placeholder: '#9A9A9A',
+  disabledDate: '#C4C4C4',
+  line: '#94948D',
+  photo: '#D9D9D9',
+  box: '#FAF9F1',
+  confirmDisabled: '#C1C1C1',
+  icon: '#12312F',
+} as const;
